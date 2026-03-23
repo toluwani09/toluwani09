@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Olalere%20Tolulope&fontSize=40&fontColor=ffffff" />
+</p>
 # Hi 👋 I am Tolulope Olalere
 
 ## 📊 Data Analyst | ☁️ AWS Cloud Engineer | Business Intelligence Specialist
@@ -83,3 +86,8 @@ Email: tolulopeolalere4@gmail.com
 
 ### 📌 Career Focus
 Seeking Data Analyst opportunities while leveraging my cloud engineering background to deliver scalable, data-driven solutions.
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+%26+Tableau+Specialist;Python+Data+Expert;AWS+Cloud+Engineer" />
+</p>
