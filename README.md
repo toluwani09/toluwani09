@@ -14,7 +14,7 @@ I transform raw data into actionable business insights — and I understand the 
 
 <p align="center">
   <a href="https://www.credly.com/badges/c7bcda70-c7fe-4b4e-b717-580a99a522aa/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/c7bcda70-c7fe-4b4e-b717-580a99a522aa/credential.png" alt="AWS Solutions Architect Badge" height="100" />
+    <img src="C:\Users\Toluwani- Windows\Downloads" alt="AWS Solutions Architect Badge" height="100" />
   </a>
 
   <!-- Example for future badges -->
