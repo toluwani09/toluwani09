@@ -48,6 +48,13 @@ I transform raw data into actionable business insights, and I understand the inf
 
 ---
 
+## 🎓 Education & Qualifications
+
+- **University of Ibadan** – BSc in Computer Science (Second Class - Upper)<br>
+- **Miva Open University** – Master in Information Technology (MIT) (In-View)<br>
+
+---
+
 ## 📂 Highlighted Projects
 
 ### 📊 Data Analyst Projects
