@@ -60,6 +60,8 @@ I transform raw data into actionable business insights, and I understand the inf
 ### 📊 Data Analyst Projects
 
 #### 📈 ElectroHub Executive Business Intelligence Report
+📌 GitHub: [View Project](https://github.com/toluwani09/ElectroHub-Business-Analysis-and-Report)<br> 
+📌 PowerBI Service: [View Dashboards]( https://app.powerbi.com/links/KjBfSqTUtt?ctid=bc72cb36-5877-4317-9457-79e927663b6a&pbi_source=linkShare)<br> 
 - Conducted end-to-end product portfolio and profitability analysis across multi-year transactional data, identifying a critical revenue concentration risk driven by a single flagship product contributing over two-thirds of total sales<br>
 - Built an executive-facing BI dashboard/report to evaluate SKU performance tiers, uncovering significant inventory inefficiencies and product portfolio imbalance<br>
 - Performed time-series sales analysis across daily, monthly, quarterly, and annual periods to identify spike-driven demand patterns and inconsistent revenue periods<br>
