@@ -68,16 +68,21 @@ I transform raw data into actionable business insights, and I understand the inf
 - Developed data-backed pricing, bundling, and diversification recommendations to improve stagnant inventory turnover and reduce overdependence on flagship SKUs<br>
 - Translated complex transactional data into strategic business insights around profitability optimization, sales consistency, and sustainable revenue growth<br>
 
+#### 🛒 E-Commerce Sales Analytics Dashboard
+📌 GitHub: [View Project](https://github.com/toluwani09/ecommerce-sales-analysis-python)<br> 
+- Analyzed 390K+ transactional records to uncover key revenue drivers, customer behavior patterns, and overall business performance trends<br>
+- Performed end-to-end data cleaning and transformation, improving data quality and ensuring accuracy for analysis and reporting. <br>
+- Conducted time-series and trend analysis to identify seasonal demand patterns and peak sales periods. <br>
+- Developed customer and geographic insights, highlighting revenue concentration and opportunities for market expansion. <br>
+- Delivered data-driven recommendations to support strategic decisions on revenue growth, customer retention, and operational efficiency. <br>
+
+
+
 #### 📊 Flight Price Business Insight Analysis
 - End-to-end data cleaning and feature engineering<br>
 - Statistical validation (ANOVA significance testing)<br>
 - Identified key pricing drivers and seasonal trends<br>
 - Delivered executive-level business insight report<br>
-
-#### 🛒 E-Commerce Sales Analytics Dashboard
-- Revenue and customer behavior analysis<br>
-- Built interactive Power BI dashboard<br>
-- Generated growth-focused business recommendations<br>
 
 ---
 
